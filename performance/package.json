@@ -1,0 +1,9 @@
+{
+  "name": "performance",
+  "version": "0.0.1",
+  "description": "Websocket server performance evaluator",
+  "dependencies": {
+    "websocket": "*",
+    "uuid": "*"
+  }
+}

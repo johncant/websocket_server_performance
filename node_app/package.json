@@ -1,0 +1,8 @@
+{
+  "name": "node_app",
+  "version": "0.0.1",
+  "description": "Evaluate node.js websocket performance",
+  "dependencies": {
+    "websocket": "*"
+  }
+}
